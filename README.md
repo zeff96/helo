@@ -23,13 +23,11 @@
 
 Helo Microverse
 
-
 **Helo Microverse** is an open source project aimed at building a safer, secure, fast, efficient and more realiable website
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
 
 <details>
   <summary>Client</summary>
@@ -45,8 +43,6 @@ Helo Microverse
 </details>
 
 
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -58,9 +54,7 @@ Helo Microverse
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 
 To get a local copy up and running, follow these steps.
@@ -76,9 +70,6 @@ Vs code;
 
 Clone this repository to your desired folder: git@github.com:zeff96/Helo.git
 
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -87,17 +78,12 @@ Clone this repository to your desired folder: git@github.com:zeff96/Helo.git
 
 👤 **Author**
 
-- GitHub: [@githubhandle](https://github.com/zeff96/Helo)
-- Twitter: [@twitterhandle](https://twitter.com/zeffo96)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/zeff-adeka-28060820a)
+- GitHub: [@zeff96](https://github.com/zeff96/Helo)
+- Twitter: [@zeffo96](https://twitter.com/zeffo96)
+- LinkedIn: [zeffo96](https://linkedin.com/in/zeff-adeka-28060820a)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -121,10 +107,6 @@ If you like this project to give a positive feedback and comments that will go a
 
 
 I would like to thank My learner partners and Microverse for the support
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
