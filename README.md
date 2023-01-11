@@ -21,7 +21,7 @@
 - [📝 License](#license)
 
 
-HTML+CSS Setup
+## HTML+CSS Setup
 
 **HTML+CSS Setup** is an open source project aimed at building a safer, secure, fast, efficient and more realiable website
 
@@ -45,10 +45,12 @@ HTML+CSS Setup
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Key Features
+## Key Features
 
 - npm packages
 - html, renders the project
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
@@ -68,8 +70,10 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-Vs code;
-npm packages
+<ul>
+  <li>Vs code</li>
+  <li>npm packages</li>
+</ul>
 
 
 ### Setup
@@ -90,7 +94,12 @@ Clone this repository to your desired folder: git@github.com:zeff96/Helo.git
 
 ### Usage
 
-Make sure you have npx installed
+To run tests, run the following command:
+
+<ul>
+<li>run npm i</li>
+<li>run npm start</li>
+</ul>
 
 
 
@@ -107,7 +116,7 @@ Make sure you have npx installed
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-### Future Features
+## Future Features
 
 - Make it a complete project
 - Make user friendly interface
