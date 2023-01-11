@@ -21,9 +21,9 @@
 - [📝 License](#license)
 
 
-Helo Microverse
+HTML+CSS Setup
 
-**Helo Microverse** is an open source project aimed at building a safer, secure, fast, efficient and more realiable website
+**HTML+CSS Setup** is an open source project aimed at building a safer, secure, fast, efficient and more realiable website
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -45,6 +45,11 @@ Helo Microverse
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Key Features
+
+- npm packages
+- html, renders the project
+
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
@@ -64,6 +69,7 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 
 Vs code;
+npm packages
 
 
 ### Setup
@@ -71,6 +77,21 @@ Vs code;
 Clone this repository to your desired folder: git@github.com:zeff96/Helo.git
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Install
+
+1. Clone the repo:
+  git@github.com:zeff96/Helo.git
+
+2. Install npm packages:
+  npm.install
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Usage
+
+Make sure you have npx installed
+
 
 
 ## 👥 Authors <a name="authors"></a>
@@ -82,6 +103,14 @@ Clone this repository to your desired folder: git@github.com:zeff96/Helo.git
 - Twitter: [@zeffo96](https://twitter.com/zeffo96)
 - LinkedIn: [zeffo96](https://linkedin.com/in/zeff-adeka-28060820a)
 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+### Future Features
+
+- Make it a complete project
+- Make user friendly interface
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,4 +142,4 @@ I would like to thank My learner partners and Microverse for the support
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LINCENSE.md) licensed.
